@@ -11,10 +11,6 @@ author_profile: true
 
 {% include base_path %}
 
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
-
 ## Working Paper
 
 + Gradient-Based Meta-Learning with Wide Neural Networks: Global Convergence, Induced Kernels, and Generalization Bounds. **Haoxiang Wang**, Ruoyu Sun, Bo Li. *Submitted.*
