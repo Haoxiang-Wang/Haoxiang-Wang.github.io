@@ -11,11 +11,13 @@ author_profile: true
 
 {% include base_path %}
 
-## Working Papers
+## Preprints
 
-+ Gradient-Based Meta-Learning with Wide Neural Networks: Global Convergence, Induced Kernels, and Generalization Bounds. **Haoxiang Wang**, Ruoyu Sun, Bo Li. *Submitted.*
++ [Global Convergence and Induced Kernels of Gradient-Based Meta-Learning with Neural Nets](https://arxiv.org/abs/2006.14606) 
+	**Haoxiang Wang**, Ruoyu Sun, Bo Li. *Under Review.*
 
 ## Conference Papers
 
-+ [Learning Positive Functions with Pseudo Mirror Descent](http://papers.nips.cc/paper/9563-learning-positive-functions-with-pseudo-mirror-descent) Yingxiang Yang, **Haoxiang Wang**, Negar Kiyavash, Niao He. *NeurIPS 2019, Spotlight (acceptance rate: 164/6743 = 2.4%).* 
++ [Learning Positive Functions with Pseudo Mirror Descent](http://papers.nips.cc/paper/9563-learning-positive-functions-with-pseudo-mirror-descent)
+	Yingxiang Yang, **Haoxiang Wang**, Negar Kiyavash, Niao He. *NeurIPS 2019, Spotlight (acceptance rate: 164/6743 = 2.4%).* 
 
