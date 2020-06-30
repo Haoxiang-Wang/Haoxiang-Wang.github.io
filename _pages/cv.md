@@ -26,13 +26,3 @@ redirect_from:
   * University of Illinois at Urbana-Champaign
   * Supervisor: Prof. [Bo Li](https://aisecure.github.io/)
   
-## Publications
-
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-## Teaching
-
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
