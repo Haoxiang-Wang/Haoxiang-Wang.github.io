@@ -29,4 +29,4 @@ redirect_from:
 
 ## Services
 
-+ Reviewer of AAAI'21, AITATS'21.
++ Reviewer of AAAI 2021, AISTATS 2021.
