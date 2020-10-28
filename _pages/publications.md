@@ -11,10 +11,15 @@ author_profile: true
 
 {% include base_path %}
 
-## Preprints
+## Preprints & Working Papers
 
 + [Global Convergence and Induced Kernels of Gradient-Based Meta-Learning with Neural Nets](https://arxiv.org/abs/2006.14606) 
 	**Haoxiang Wang**, Ruoyu Sun, Bo Li. *Under Review.*
+	
++ On the Linearity of Neural Networks
+  In Deep Reinforcement Learning
+
+  **Haoxiang Wang**, Yuanyi Zhong, Jian Peng, Zhuoran Yang, Zhaoran Wang, Bo Li. *Under Review.*
 
 ## Conference Papers
 
