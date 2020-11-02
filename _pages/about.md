@@ -12,6 +12,9 @@ I am a second-year Ph.D. student in the Department of _Electrical and Computer E
 
 My current research interest is on deep learning in multi-task scenarios, including *meta-learning*, *multi-task learning*, and *life-long/continual learning*. I am trying to provide a deeper theoretical understanding of them while developing applicable algorithms.
 
+### News
+
++ [Oct 2020] Glab to be reviewers for AAAI 2021, AISTATS 2021 and CVPR 2021!
 
 <script type="text/javascript" id="clustrmaps" src="//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=303&t=tt&d=FPF7twPjD1vWaMFrlN_DYIRTdajBNlmQcjNkLZguci8&ct=fff844"></script>
 
