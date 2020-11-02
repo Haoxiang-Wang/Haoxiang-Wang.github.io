@@ -14,7 +14,7 @@ My current research interest is on deep learning in multi-task scenarios, includ
 
 ## News
 
-+ [Oct 2020] Glad to be reviewers for AAAI 2021, AISTATS 2021 and CVPR 2021!
++ [Oct 2020] Glad to be a reviewer for AAAI 2021, AISTATS 2021 and CVPR 2021!
 
 <script type="text/javascript" id="clustrmaps" src="//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=303&t=tt&d=FPF7twPjD1vWaMFrlN_DYIRTdajBNlmQcjNkLZguci8&ct=fff844"></script>
 
