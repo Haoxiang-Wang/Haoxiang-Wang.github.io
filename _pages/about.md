@@ -14,7 +14,6 @@ My current research interest is on deep learning in multi-domain scenarios, incl
 
 ## News
 + [Jan 2021] Will work in [Waymo](https://waymo.com/) (formerly the Google self-driving car project) as a research intern in summer 2021!
-+ [Nov 2020] Looking for 2021 Summer Internship on Machine Learning Research in USAt.
 + [Oct 2020] Glad to be a reviewer for AAAI 2021, AISTATS 2021 and CVPR 2021!
 
 <script type="text/javascript" id="clustrmaps" src="//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=303&t=tt&d=FPF7twPjD1vWaMFrlN_DYIRTdajBNlmQcjNkLZguci8&ct=fff844"></script>
