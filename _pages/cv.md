@@ -17,14 +17,14 @@ redirect_from:
 * Ph.D,  University of Illinois at Urbana-Champaign, 2019-2024 (expected)
   * Major: *Electrical & Computer Engineering*
   * Research Area: *Machine Learning*
-  * Supervisor: *Prof. [Bo Li](https://aisecure.github.io/)*
+  * Advisors: *Prof. [Bo Li](https://aisecure.github.io/)* and _Prof. [Han Zhao](https://hanzhaoml.github.io/)_
   * GPA: 4.00/4.00
 
 ## Work experience
 
 * Fall 2019-Now: Teaching/Research Assistant
   * University of Illinois at Urbana-Champaign
-  * Supervisor: Prof. [Bo Li](https://aisecure.github.io/)
+  * Supervisors: *Prof. [Bo Li](https://aisecure.github.io/)* and _Prof. [Han Zhao](https://hanzhaoml.github.io/)_
   
 
 ## Services
