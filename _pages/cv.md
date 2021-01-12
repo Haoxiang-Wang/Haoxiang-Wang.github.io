@@ -10,15 +10,14 @@ redirect_from:
 {% include base_path %}
 
 ## Education
-
-* B.S., University of Illinois at Urbana-Champaign, 2015-2019
-  * Majors: (1) *Statistics & Computer Science*, (2) *Physics*
-  * GPA: 3.89/4.00
 * Ph.D,  University of Illinois at Urbana-Champaign, 2019-2024 (expected)
   * Major: *Electrical & Computer Engineering*
   * Research Area: *Machine Learning*
   * Advisors: *Prof. [Bo Li](https://aisecure.github.io/)* and _Prof. [Han Zhao](https://hanzhaoml.github.io/)_
   * GPA: 4.00/4.00
+* B.S., University of Illinois at Urbana-Champaign, 2015-2019
+  * Majors: (1) *Statistics & Computer Science*, (2) *Physics*
+  * GPA: 3.89/4.00
 
 ## Work experience
 
