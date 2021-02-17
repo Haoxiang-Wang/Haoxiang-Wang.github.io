@@ -18,9 +18,9 @@ author_profile: true
 	**Haoxiang Wang**, Ruoyu Sun, Bo Li. *Under Review.*
 		
 	
-+ On the Linearity of Neural Networks In Deep Reinforcement Learning 
++ Bridging Multi-Task Learning and Meta-Learning: Towards Efficient Training and Effective Adaptation 
 
-  **Haoxiang Wang**, Yuanyi Zhong, Jian Peng, Zhuoran Yang, Zhaoran Wang, Bo Li. *Under Review.*
+  **Haoxiang Wang**, Han Zhao, Bo Li. *Under Review.*
 
 ## Conference Papers
 
