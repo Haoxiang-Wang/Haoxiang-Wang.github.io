@@ -18,15 +18,17 @@ author_profile: true
 	**Haoxiang Wang**, Ruoyu Sun, Bo Li. *Under Review.*
 		
 	
+## Conference Papers
+
 + Bridging Multi-Task Learning and Meta-Learning: Towards Efficient Training and Effective Adaptation 
 
-  **Haoxiang Wang**, Han Zhao, Bo Li. *Under Review.*
-
-## Conference Papers
+  **Haoxiang Wang**, Han Zhao, Bo Li. ICML 2021.
 
 + [Learning Positive Functions with Pseudo Mirror Descent](http://papers.nips.cc/paper/9563-learning-positive-functions-with-pseudo-mirror-descent)
 
 	Yingxiang Yang, **Haoxiang Wang**, Negar Kiyavash, Niao He. NeurIPS 2019, Spotlight (acceptance rate: 164/6743 = 2.4%). 
+
+
 
 
 
