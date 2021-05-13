@@ -21,10 +21,14 @@ redirect_from:
 
 ## Work experience
 
+* Summer 2021: Research Intern
+  * Waymo LLC (formerly the Google self-driving car project)
+  * Mentor: Dr. [Zhao Chen](https://www.linkedin.com/in/zhao-chen/)
+  * Research Areas: Machine Learning and Computer Vision
 * Fall 2019-Now: Teaching/Research Assistant
   * University of Illinois at Urbana-Champaign
-  * Supervisors: *Prof. [Bo Li](https://aisecure.github.io/)* and _Prof. [Han Zhao](https://hanzhaoml.github.io/)_
-  
+  * Advisors: *Prof. [Bo Li](https://aisecure.github.io/)* and _Prof. [Han Zhao](https://hanzhaoml.github.io/)_
+  * Research Area: Machine Learning
 
 ## Services
 
