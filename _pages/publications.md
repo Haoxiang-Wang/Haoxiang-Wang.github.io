@@ -11,22 +11,25 @@ author_profile: true
 
 {% include base_path %}
 
-## Preprints & Working Papers
+## Publications
 
-+ [Global Convergence and Induced Kernels of Gradient-Based Meta-Learning with Neural Nets](https://arxiv.org/abs/2006.14606) 
-	
-	**Haoxiang Wang**, Ruoyu Sun, Bo Li. *Under Review.*
-		
-	
-## Conference Papers
+1. **Bridging Multi-Task Learning and Meta-Learning: Towards Efficient Training and Effective Adaptation**
 
-+ Bridging Multi-Task Learning and Meta-Learning: Towards Efficient Training and Effective Adaptation 
+   <u>Haoxiang Wang</u>, Han Zhao, Bo Li
 
-  **Haoxiang Wang**, Han Zhao, Bo Li. ICML 2021.
+   *International Conference on Machine Learning (ICML), 2021*
 
-+ [Learning Positive Functions with Pseudo Mirror Descent](http://papers.nips.cc/paper/9563-learning-positive-functions-with-pseudo-mirror-descent)
+2. [**Global Convergence and Generalization Bound of Gradient-Based Meta-Learning with Deep Neural Nets**](https://arxiv.org/abs/2006.14606)
 
-	Yingxiang Yang, **Haoxiang Wang**, Negar Kiyavash, Niao He. NeurIPS 2019, Spotlight (acceptance rate: 164/6743 = 2.4%). 
+   <u>Haoxiang Wang</u>, Ruoyu Sun, Bo Li
+
+   *arXiv, 2020*
+
+3. [**Learning Positive Functions with Pseudo Mirror Descent**](http://papers.nips.cc/paper/9563-learning-positive-functions-with-pseudo-mirror-descent)
+
+   Yingxiang Yang, <u>Haoxiang Wang</u>, Negar Kiyavash, Niao He. 
+
+   *Advances in Neural Information Processing Systems (NeurIPS), 2019* (spotlight, acceptance rate: 164/6743 = 2.4%)
 
 
 
