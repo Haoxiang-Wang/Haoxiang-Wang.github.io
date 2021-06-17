@@ -13,7 +13,7 @@ I am a second-year _Machine Learning_ Ph.D. student in the Department of _Electr
 My current research interest is on deep learning in multi-domain scenarios, including *meta-learning*, *multi-task learning*, and _domain generalization_. I am trying to provide a deeper theoretical understanding of them while developing applicable algorithms.
 
 ## News
-+ [May 2021] Have one paper accepted by ICML 2021!
++ [May 2021] Have one paper accepted by ICML 2021! [[arXiv](https://arxiv.org/abs/2106.09017), [code](https://github.com/AI-secure/multi-task-learning)]
 + [Jan 2021] Will work in [Waymo](https://waymo.com/) (formerly the Google self-driving car project) as a research intern in summer 2021!
 + [Oct 2020] Glad to be a reviewer for AAAI 2021, AISTATS 2021 and CVPR 2021!
 
