@@ -13,7 +13,7 @@ author_profile: true
 
 ## Publications
 
-1. [**Bridging Multi-Task Learning and Meta-Learning: Towards Efficient Training and Effective Adaptation**](https://arxiv.org/abs/2106.09017) [[Code](https://github.com/AI-secure/multi-task-learning)]
+1. [**Bridging Multi-Task Learning and Meta-Learning: Towards Efficient Training and Effective Adaptation**](https://arxiv.org/abs/2106.09017) [[Code](https://github.com/AI-secure/multi-task-learning), [Video](https://recorder-v3.slideslive.com/?share=40489&s=aa94ba39-cf2e-4c44-be0d-a87849406d55), [Slides](https://haoxiang-wang.github.io/files/ICML21-MTL-Presentation.pdf)]
 
    <u>Haoxiang Wang</u>, Han Zhao, Bo Li
 
