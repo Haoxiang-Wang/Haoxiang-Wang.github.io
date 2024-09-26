@@ -38,6 +38,8 @@ Hanze Dong*, Wei Xiong*, Bo Pang*, <u>Haoxiang Wang*</u>, Han Zhao, Yingbo Zhou,
 
 
 ## News
++ [Sep 2024] [ArmoRM](https://arxiv.org/abs/2406.12845) and [Semi-Supervised Reward Modeling (SSRM)](https://arxiv.org/abs/2409.06903) are accepted by EMNLP 2024!
++ [Sep 2024] [RLHF Workflow](https://arxiv.org/abs/2405.07863) is accepeted by TMLR!
 + [May 2024] Have a paper accepted by JMLR! [[arXiv](https://arxiv.org/abs/2310.13852)]
 + [May 2024] My first LLM alignment paper, [Directional Preference Alignment](https://arxiv.org/abs/2402.18571) (DPA), is accepted as a long paper in ACL'2024 Main Conference!
 + [Apr 2024] Have a paper accepted by TMLR! [[Paper](https://openreview.net/forum?id=k3d5C0YvfK)]
