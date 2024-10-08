@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Haoxiang Wang"
   avatar           : "profile.png"
-  bio              : "A machine learning PhD student in UIUC."
+  bio              : "A research scientist at NVIDIA."
   location         : "Champaign, IL, USA"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=bcInPlwAAAAJ&hl=en"
-  email            : "hwang264@illinois.edu"
+  email            : "haoxiangw@nvidia.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
