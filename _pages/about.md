@@ -18,12 +18,12 @@ Lately, I have been focusing on large language models and multi-modal models, im
 
 ## Selected Recent Publications
 
-**[Interpretable Preferences via Multi-Objective Reward Modeling and Mixture-of-Experts](https://arxiv.org/abs/2406.12845)**
+[EMNLP 2024] **[Interpretable Preferences via Multi-Objective Reward Modeling and Mixture-of-Experts](https://arxiv.org/abs/2406.12845)**
 
 Haoxiang Wang*, Wei Xiong*, Tengyang Xie, Han Zhao, Tong Zhang
 
 
-**[RLHF Workflow: From Reward Modeling to Online RLHF](https://arxiv.org/abs/2405.07863)**
+[TMLR] **[RLHF Workflow: From Reward Modeling to Online RLHF](https://arxiv.org/abs/2405.07863)**
 
 Hanze Dong*, Wei Xiong*, Bo Pang*, <u>Haoxiang Wang*</u>, Han Zhao, Yingbo Zhou, Nan Jiang, Doyen Sahoo, Caiming Xiong, Tong Zhang
 
