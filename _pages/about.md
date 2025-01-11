@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a research scientist at NVIDIA Research. I just obtained my Ph.D. in 2024 from the _Electrical and Computer Engineering_ department at the [University of Illinois Urbana-Champaign](https://illinois.edu/) (UIUC), advised by Prof. [Han Zhao](https://hanzhaoml.github.io/) and Prof. [Bo Li](https://aisecure.github.io/). Previously, I obtained my B.S. in 2019 from UIUC with double majors in (1) Physics, (2) Statistics & Computer Science. 
+I am a research scientist at NVIDIA and a core contributor to [Cosmos World Foundation Model](https://arxiv.org/abs/2501.03575). I obtained my Ph.D. in 2024 from the _Electrical and Computer Engineering_ department at the [University of Illinois Urbana-Champaign](https://illinois.edu/) (UIUC), advised by Prof. [Han Zhao](https://hanzhaoml.github.io/) and Prof. [Bo Li](https://aisecure.github.io/). Previously, I obtained my B.S. in 2019 from UIUC with double majors in (1) Physics, (2) Statistics & Computer Science. 
 
 In the past, I have worked on [multi-task learning](https://arxiv.org/abs/2106.09017), [out-of-distribution (OOD) generalization](https://arxiv.org/abs/2201.12919), [domain adaptation](https://arxiv.org/abs/2204.08200) and [meta-learning](https://arxiv.org/abs/2203.09137). Besides, I have adapted transformers to solve quantum computing problems in Amazon ([Paper](https://arxiv.org/abs/2211.16943)).
 
@@ -17,6 +17,10 @@ Lately, I have been focusing on large language models and multi-modal models, im
 [[Curriculum Vitae](https://haoxiang-wang.github.io/files/CV.pdf)]
 
 ## Selected Recent Publications
+
+**[Cosmos World Foundation Model Platform for Physical AI](https://arxiv.org/abs/2501.03575)**
+
+NVIDIA (Core Contributor)
 
 [EMNLP 2024] **[Interpretable Preferences via Multi-Objective Reward Modeling and Mixture-of-Experts](https://arxiv.org/abs/2406.12845)**
 
@@ -38,6 +42,7 @@ Hanze Dong*, Wei Xiong*, Bo Pang*, <u>Haoxiang Wang*</u>, Han Zhao, Yingbo Zhou,
 
 
 ## News
++ [Jan 2025] [Cosmos World Foundation Model](https://arxiv.org/abs/2501.03575) is released!
 + [Sep 2024] [ArmoRM](https://arxiv.org/abs/2406.12845) and [Semi-Supervised Reward Modeling (SSRM)](https://arxiv.org/abs/2409.06903) are accepted by EMNLP 2024!
 + [Sep 2024] [RLHF Workflow](https://arxiv.org/abs/2405.07863) is accepeted by TMLR!
 + [May 2024] Have a paper accepted by JMLR! [[arXiv](https://arxiv.org/abs/2310.13852)]
