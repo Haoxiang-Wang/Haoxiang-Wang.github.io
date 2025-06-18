@@ -10,38 +10,37 @@ redirect_from:
 
 I am a research scientist at NVIDIA and a core contributor to [Cosmos World Foundation Model](https://arxiv.org/abs/2501.03575). I obtained my Ph.D. in 2024 from the _Electrical and Computer Engineering_ department at the [University of Illinois Urbana-Champaign](https://illinois.edu/) (UIUC), advised by Prof. [Han Zhao](https://hanzhaoml.github.io/) and Prof. [Bo Li](https://aisecure.github.io/). Previously, I obtained my B.S. in 2019 from UIUC with double majors in (1) Physics, (2) Statistics & Computer Science. 
 
-In the past, I have worked on [multi-task learning](https://arxiv.org/abs/2106.09017), [out-of-distribution (OOD) generalization](https://arxiv.org/abs/2201.12919), [domain adaptation](https://arxiv.org/abs/2204.08200) and [meta-learning](https://arxiv.org/abs/2203.09137). Besides, I have adapted transformers to solve quantum computing problems in Amazon ([Paper](https://arxiv.org/abs/2211.16943)).
-
-Lately, I have been focusing on large language models and multi-modal models, improving their reliability, efficiency, and controllability. Please check out the following paper list for details.
+Currently, I am working on [vision-language models](https://arxiv.org/abs/2503.15558), [large language models](https://arxiv.org/abs/2505.18116), and [video generation models](https://arxiv.org/abs/2501.03575). My skillset spans pre-training, reinforcement learning, reward modeling, large-scale distributed training, and inference optimization.
 
 [[Curriculum Vitae](https://haoxiang-wang.github.io/files/CV.pdf)]
 
 ## Selected Recent Publications
 
-**[Cosmos World Foundation Model Platform for Physical AI](https://arxiv.org/abs/2501.03575)**
+[2025] **[Cosmos World Foundation Model Platform for Physical AI](https://arxiv.org/abs/2501.03575)**
 
 NVIDIA (Core Contributor)
 
+[2025] **[Cosmos-Reason1: From Physical Common Sense To Embodied Reasoning](https://arxiv.org/abs/2503.15558)**
+
+NVIDIA (Core Contributor)
+
+[2025] **[Bridging Supervised Learning and Reinforcement Learning in Math Reasoning](https://arxiv.org/abs/2505.18116)**
+
+Huayu Chen, Kaiwen Zheng, Qinsheng Zhang, Ganqu Cui, Yin Cui, Haotian Ye, Tsung-Yi Lin, Ming-Yu Liu, Jun Zhu, <u>Haoxiang Wang</u>
+
 [EMNLP 2024] **[Interpretable Preferences via Multi-Objective Reward Modeling and Mixture-of-Experts](https://arxiv.org/abs/2406.12845)**
 
-Haoxiang Wang*, Wei Xiong*, Tengyang Xie, Han Zhao, Tong Zhang
+<u>Haoxiang Wang*</u>, Wei Xiong*, Tengyang Xie, Han Zhao, Tong Zhang
 
 
-[TMLR] **[RLHF Workflow: From Reward Modeling to Online RLHF](https://arxiv.org/abs/2405.07863)**
+[TMLR 2024] **[RLHF Workflow: From Reward Modeling to Online RLHF](https://arxiv.org/abs/2405.07863)**
 
 Hanze Dong*, Wei Xiong*, Bo Pang*, <u>Haoxiang Wang*</u>, Han Zhao, Yingbo Zhou, Nan Jiang, Doyen Sahoo, Caiming Xiong, Tong Zhang
 
-[ACL 2024] **[Arithmetic Control of LLMs for Diverse User Preferences: Directional Preference Alignment with Multi-Objective Rewards](https://arxiv.org/abs/2402.18571)**
-
-<u>Haoxiang Wang*</u>, Yong Lin*, Wei Xiong*, Rui Yang, Shizhe Diao, Shuang Qiu, Han Zhao, Tong Zhang
-
-
-[CVPRW 2024] **[SAM-CLIP: Merging Vision Foundation Models Towards Semantic and Spatial Understanding](https://arxiv.org/pdf/2310.15308)**  
-    
-<u>Haoxiang Wang</u>, Pavan Kumar Anasosalu Vasu, Fartash Faghri, Raviteja Vemulapalli, Mehrdad Farajtabar, Sachin Mehta, Mohammad Rastegari, Oncel Tuzel, Hadi Pouransari
-
 
 ## News
++ [Jun 2025] [Negative-aware Fine-Tuning](https://arxiv.org/abs/2505.18116) is released! [[Code](https://github.com/NVlabs/NFT/)]
++ [Mar 2025] [Cosmos-Reason1](https://arxiv.org/abs/2503.15558) is released!
 + [Jan 2025] [Cosmos World Foundation Model](https://arxiv.org/abs/2501.03575) is released!
 + [Sep 2024] [ArmoRM](https://arxiv.org/abs/2406.12845) and [Semi-Supervised Reward Modeling (SSRM)](https://arxiv.org/abs/2409.06903) are accepted by EMNLP 2024!
 + [Sep 2024] [RLHF Workflow](https://arxiv.org/abs/2405.07863) is accepeted by TMLR!
