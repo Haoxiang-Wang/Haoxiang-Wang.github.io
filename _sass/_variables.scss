@@ -44,27 +44,27 @@ $type-size-8                : 0.625em;  // ~10px
 
 
 /*
-   Colors
+   Colors - Apple-inspired Dark Theme
    ========================================================================== */
 
-$gray                       : #7a8288;
-$dark-gray                  : mix(#000, $gray, 40%);
-$darker-gray                : mix(#000, $gray, 60%);
-$light-gray                 : mix(#fff, $gray, 50%);
-$lighter-gray               : mix(#fff, $gray, 90%);
+$gray                       : #86868b;  // Apple's secondary gray
+$dark-gray                  : #48484a;   // Darker gray for less important text
+$darker-gray                : #2c2c2e;   // Even darker for backgrounds
+$light-gray                 : #98989d;   // Lighter gray
+$lighter-gray               : #1d1d1f;   // Subtle borders on black
 
-$body-color                 : #fff;
-$background-color           : #fff;
-$code-background-color      : #fafafa;
-$code-background-color-dark : $light-gray;
-$text-color                 : $dark-gray;
-$border-color               : $lighter-gray;
+$body-color                 : #000000;    // Pure black background (Apple style)
+$background-color           : #000000;    // Pure black background
+$code-background-color      : #1c1c1e;    // Slightly elevated surface
+$code-background-color-dark : #161618;    // Even darker code background
+$text-color                 : #f5f5f7;    // Apple's off-white for main text
+$border-color               : #2d2d30;    // Subtle borders visible on black
 
-$primary-color              : #7a8288;
-$success-color              : #62c462;
-$warning-color              : #f89406;
-$danger-color               : #ee5f5b;
-$info-color                 : #52adc8;
+$primary-color              : #0a84ff;    // Apple's blue for dark mode
+$success-color              : #32d74b;    // Apple's green
+$warning-color              : #ff9f0a;    // Apple's orange
+$danger-color               : #ff453a;    // Apple's red
+$info-color                 : #5ac8fa;    // Apple's light blue
 
 /* brands */
 $behance-color              : #1769FF;
@@ -90,11 +90,11 @@ $xing-color                 : #006567;
 
 
 /* links */
-$link-color                 : $info-color;
-$link-color-hover           : mix(#000, $link-color, 25%);
-$link-color-visited         : mix(#fff, $link-color, 25%);
-$masthead-link-color        : $primary-color;
-$masthead-link-color-hover  : mix(#000, $primary-color, 25%);
+$link-color                 : #4da6ff;    // Bright blue that pops on black
+$link-color-hover           : #70b8ff;    // Lighter blue on hover
+$link-color-visited         : #8c7aff;    // Subtle purple for visited
+$masthead-link-color        : #f5f5f7;    // White for navigation links
+$masthead-link-color-hover  : #0a84ff;    // Apple blue on hover
 
 
 /*
